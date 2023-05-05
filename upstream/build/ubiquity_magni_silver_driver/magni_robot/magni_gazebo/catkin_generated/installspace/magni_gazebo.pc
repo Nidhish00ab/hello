@@ -1,0 +1,8 @@
+prefix=/home/haystack/upstream/install
+
+Name: magni_gazebo
+Description: Description of magni_gazebo
+Version: 0.6.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

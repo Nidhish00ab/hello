@@ -1,0 +1,8 @@
+prefix=/home/haystack/upstream/install
+
+Name: battery
+Description: Description of battery
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

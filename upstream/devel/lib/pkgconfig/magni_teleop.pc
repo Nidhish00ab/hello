@@ -1,0 +1,8 @@
+prefix=/home/haystack/upstream/devel
+
+Name: magni_teleop
+Description: Description of magni_teleop
+Version: 0.6.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

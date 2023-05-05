@@ -1,0 +1,8 @@
+prefix=/home/haystack/upstream/install
+
+Name: haystack
+Description: Description of haystack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
